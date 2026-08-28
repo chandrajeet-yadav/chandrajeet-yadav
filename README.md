@@ -1,4 +1,4 @@
-# Hi, I'm Chandrajeet Yadav 👋
+# Hi, I'm Chandra Jeet Yadav 👋
 
 ### Senior Java Developer | Backend Engineer | Microservices & Cloud
 
