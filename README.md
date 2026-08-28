@@ -1,108 +1,127 @@
-# Hi, I'm Chandra Jeet Yadav
+# Hi, I'm Chandrajeet Yadav 👋
 
-### Senior Java Developer | Backend Engineer | Cloud & Microservices
+### Senior Java Developer | Backend Engineer | Microservices & Cloud
 
-I’m a software developer with 6+ years of experience building backend applications and enterprise solutions using Java, Spring Boot, Microservices, REST APIs, AWS and related technologies.
+I'm a Senior Java Developer with **6.6+ years of experience** building high-availability, low-latency, and scalable enterprise applications across **Banking, Fintech, and Healthcare** domains.
 
-I focus on building **scalable, secure, maintainable and production-ready backend systems**.
-
----
-
-## Technical Skills
-
-**Languages**
-
-* Java 8 / 11 / 17+
-
-**Backend**
-
-* Spring Boot
-* Spring MVC
-* Spring Security
-* Hibernate / JPA
-* REST APIs
-* Microservices
-
-**Messaging & Distributed Systems**
-
-* Apache Kafka
-* Event-driven architecture
-
-**Cloud & DevOps**
-
-* AWS
-* Docker
-* Kubernetes
-* Jenkins
-* CI/CD
-
-**Databases**
-
-* PostgreSQL
-* Relational database design
-
-**Security**
-
-* OAuth 2.0
-* JWT
-* Spring Security
-
-**Engineering**
-
-* System Design
-* Design Patterns
-* Clean Code
-* SOLID Principles
-* Unit & Integration Testing
-* Git
+My core expertise includes **Java, Spring Boot, Microservices, Apache Kafka, AWS, Distributed Systems, and System Design**. I have experience across the complete software development lifecycle—from designing and developing backend systems to production deployment, performance optimisation, troubleshooting, and technical leadership.
 
 ---
 
-## Featured Projects
+## 🚀 Professional Highlights
 
-> Currently building production-style projects to demonstrate backend engineering, distributed systems, cloud and AI capabilities.
-
-| Project                        | Technologies                         | Focus                   |
-| ------------------------------ | ------------------------------------ | ----------------------- |
-| Fintech Microservices Platform | Java, Spring Boot, PostgreSQL, Kafka | Microservices & Banking |
-| Event-Driven Platform          | Java, Spring Boot, Kafka             | Distributed Systems     |
-| Secure API Gateway             | Spring Cloud, OAuth2, JWT            | API Security            |
-| Cloud-Native Java Platform     | Docker, Kubernetes, AWS              | Cloud & DevOps          |
-| AI-Powered Java Application    | Java, Spring Boot, AI                | AI Integration          |
-
-More projects will be added as they are completed.
+* 📈 Improved system throughput by **30%** through Java concurrency and JVM performance optimisation.
+* ⚡ Reduced reporting latency by **40%** using event-driven architecture and Apache Kafka.
+* 🗄️ Improved database and report performance through query optimisation, caching, and persistence-layer improvements.
+* 🛡️ Built resilient and fault-tolerant microservices using Spring Cloud and resilience patterns.
+* ☁️ Worked with AWS, Docker, Jenkins, and CI/CD pipelines for production deployments.
+* 👥 Mentored junior engineers and contributed to architectural and technical decisions.
 
 ---
 
-## What I'm Currently Working On
+## 🛠️ Technical Skills
 
-* Building production-grade Java & Spring Boot applications
-* Deepening knowledge of Microservices and System Design
-* Working with Kafka and event-driven architectures
-* Strengthening AWS, Docker and Kubernetes skills
+### Languages & Backend
+
+`Java 8` • `Java 11` • `Java 17+` • `Core Java` • `Spring Boot` • `Spring Framework` • `Spring MVC` • `Spring Data JPA` • `Hibernate`
+
+### Architecture & System Design
+
+`Microservices` • `Distributed Systems` • `System Design (HLD/LLD)` • `Event-Driven Architecture` • `DDD` • `SOLID Principles` • `Design Patterns` • `API Gateway` • `Service Discovery` • `Circuit Breaker`
+
+### APIs & Messaging
+
+`REST APIs` • `Apache Kafka` • `Asynchronous Processing` • `SOAP` • `JAX-WS` • `Axis2` • `OpenAPI / Swagger`
+
+### Databases & Caching
+
+`Oracle` • `MySQL` • `PostgreSQL` • `MongoDB` • `Redis` • `Ehcache` • `SQL Optimisation` • `Database Performance Tuning`
+
+### Cloud & DevOps
+
+`AWS (EC2, S3, RDS, Lambda)` • `Docker` • `Kubernetes` • `Jenkins` • `CI/CD` • `Git` • `GitHub` • `Maven` • `SonarQube`
+
+### Testing & Code Quality
+
+`JUnit` • `Mockito` • `TDD` • `Unit Testing` • `Integration Testing` • `Code Review` • `Debugging & Troubleshooting`
+
+### Security
+
+`Spring Security` • `OAuth 2.0` • `JWT` • `API Security` • `Authentication & Authorization` • `Secure Coding Practices`
+
+---
+
+## 💼 Professional Experience
+
+### Banking & Fintech
+
+I have worked on enterprise platforms involving:
+
+* Corporate credit limit management
+* Real-time market risk analysis and monitoring
+* High-volume and low-latency financial systems
+* Event-driven reporting pipelines
+* Enterprise banking integrations
+* Production performance optimisation and troubleshooting
+
+### Healthcare
+
+I have also contributed to healthcare platforms involving:
+
+* Medicine ordering and healthcare services
+* Diagnostic test integrations
+* Health records and backend service integration
+
+---
+
+## 🏗️ Featured Projects
+
+I am building production-style open-source projects to demonstrate my practical engineering approach and create a strong public portfolio.
+
+| Project                            | Technologies                         | Focus                    |
+| ---------------------------------- | ------------------------------------ | ------------------------ |
+| **Fintech Microservices Platform** | Java, Spring Boot, PostgreSQL, Kafka | Enterprise Microservices |
+| **Event-Driven Platform**          | Java, Spring Boot, Kafka             | Distributed Systems      |
+| **Secure API Gateway**             | Spring Security, OAuth2, JWT         | API Security             |
+| **Cloud-Native Java Platform**     | Docker, Kubernetes, AWS              | Cloud & DevOps           |
+| **AI-Powered Java Application**    | Java, Spring Boot, AI APIs           | Practical AI Integration |
+
+> Projects will be added as they are completed. The focus is on **quality, architecture, testing, documentation, and real-world engineering practices** rather than unfinished tutorial projects.
+
+---
+
+## 📚 What I'm Currently Working On
+
+* Building production-grade Java and Spring Boot applications
+* Deepening my knowledge of Microservices and Distributed Systems
+* Strengthening System Design and Cloud-Native Architecture skills
+* Exploring advanced Kafka and event-driven architectures
+* Building hands-on projects with Docker, Kubernetes, and AWS
 * Exploring practical AI integration with Java applications
 
 ---
 
-## GitHub Goals
+## 🎯 My Engineering Principles
 
-My goal is to build software that demonstrates:
+I aim to build software that is:
 
-* Clean architecture
-* Maintainable code
-* Strong testing practices
-* Secure API design
-* Scalable system architecture
-* Cloud-native deployment
-* Real-world engineering practices
+* **Scalable**
+* **Secure**
+* **Maintainable**
+* **Resilient**
+* **Observable**
+* **Well-tested**
 
----
-
-## Connect With Me
-
-* LinkedIn: [Add your LinkedIn profile]
-* GitHub: [@chandrajeet-yadav](https://github.com/chandrajeet-yadav)
+I value clean architecture, SOLID principles, thoughtful system design, strong testing practices, and pragmatic engineering decisions.
 
 ---
 
-### Building. Learning. Improving.
+## 📫 Connect With Me
+
+* 💼 **LinkedIn:** [linkedin.com/in/chandrajeetyadav](https://linkedin.com/in/chandrajeetyadav)
+* 💻 **GitHub:** [@chandrajeet-yadav](https://github.com/chandrajeet-yadav)
+* 📧 **Email:** [chandrajeet.tech@gmail.com](mailto:chandrajeet.tech@gmail.com)
+
+---
+
+### Building reliable systems. Learning continuously. Sharing the journey.
